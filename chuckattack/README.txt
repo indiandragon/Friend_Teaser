@@ -23,10 +23,10 @@ Demo of Facebook Random generator 1.0
  
 visit, http://fbappstore.indiandragon.in
 
-Demo : http://apps.facebook.com/randomgeneratordemo
+Demo : http://apps.facebook.com/chuckattack
 
 
-Demo Video: http://www.youtube.com/watch?v=yAjezWYB9Cg
+Demo Video: http://www.youtube.com/watch?v=R-4WbFr079E
 
 
 
